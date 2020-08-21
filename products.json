@@ -1,0 +1,67 @@
+{
+    "items": [{
+            "sys": { "id": "1" },
+            "fields": {
+                "title": "Air fleets",
+                "price": 130.99,
+                "image": { "fields": { "file": { "url": "./images/product-1.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "2" },
+            "fields": {
+                "title": "White Prestos",
+                "price": 225.99,
+                "image": { "fields": { "file": { "url": "./images/product-2.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "3" },
+            "fields": {
+                "title": "Vans Classics",
+                "price": 65.99,
+                "image": { "fields": { "file": { "url": "./images/product-3.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "4" },
+            "fields": {
+                "title": "Air Force Twos",
+                "price": 222.99,
+                "image": { "fields": { "file": { "url": "./images/product-4.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "5" },
+            "fields": {
+                "title": "Sprinter fleets",
+                "price": 150.99,
+                "image": { "fields": { "file": { "url": "./images/product-5.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "6" },
+            "fields": {
+                "title": "Desert storms",
+                "price": 175.99,
+                "image": { "fields": { "file": { "url": "./images/product-6.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "7" },
+            "fields": {
+                "title": "Superstars",
+                "price": 180.99,
+                "image": { "fields": { "file": { "url": "./images/product-7.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "8" },
+            "fields": {
+                "title": "Dr Martens",
+                "price": 125.99,
+                "image": { "fields": { "file": { "url": "./images/product-8.jpg" } } }
+            }
+        }
+    ]
+}
